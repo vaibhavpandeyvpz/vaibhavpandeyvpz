@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">Theoretically illiterate but practically pro, tech agnostic engineer from India.</h3>
+<h1 align="center">Hi 👋, I'm VPZ</h1>
+<h3 align="center">
+  Theoretically illiterate but practically pro, tech agnostic engineer from India.
+  I build software for desktop, mobile, web, cars, games or anything you could fiddle with.
+  In my free time, I like to spend time tinkering with embedded chips and try not to fry them.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpandeyvpz" alt="vaibhavpandeyvpz" /> </p>
 
@@ -11,5 +15,5 @@
 - 📝 I regulary write articles on [https://blog.vaibhavpandey.com/](https://blog.vaibhavpandey.com/)
 - 💬 Ask me about **anything tech**
 - 📫 You can reach me on **contact@vaibhavpandey.com**
-- 😄 Pronouns: **VPZ**
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact **never went to college**
